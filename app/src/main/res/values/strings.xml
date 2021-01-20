@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginDbug</string>
+    <string name="username">Username</string>
+    <string name="nxt">NXT</string>
+    <string name="lvl">LVL</string>
+    <string name="studio">Studio</string>
+    <string name="tattoo">Tattoo</string>
+    <string name="login">LOGIN</string>
+    <string name="pass">Pass</string>
+    <string name="signup">SIGNUP</string>
+
+
+
+</resources>
